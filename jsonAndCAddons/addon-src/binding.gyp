@@ -2,7 +2,7 @@
     "targets" : [
         {
             "target_name" : "cppAddon",
-            "sources" : ["hello_world.cpp"]
+            "sources" : ["hello_world.cc"]
         }
     ]
 }
